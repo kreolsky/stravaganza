@@ -1,6 +1,6 @@
 # Статьи и переводы
 - Ссылка на статью [null](https://pages.github.com/)
-[Contribution guidelines for this project](docs/README.md)
+
 _Краткое описание статьи_
 
 
