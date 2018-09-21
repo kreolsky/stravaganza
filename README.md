@@ -1,6 +1,5 @@
 # Статьи и переводы
-- Ссылка на статью [null](https://pages.github.com/)
-
+* Ссылка на статью [null](https://pages.github.com/)
 _Краткое описание статьи_
 
 
